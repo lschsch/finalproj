@@ -111,7 +111,7 @@ p <- 0.9
 # girl, <3, yes (fifth)
 h <- 1
 i <- 1
-x <- sex[1]         # this combination is girl, <3, yes
+x <- sex[2]         # this combination is girl, <3, yes
 y <- age[1]
 z <- companion[1]
 p <- 0.4
@@ -119,7 +119,7 @@ p <- 0.4
 # girl, >3, yes (sixth)
 h <- 1
 i <- 1
-x <- sex[1]         # this combination is girl, >3, yes
+x <- sex[2]         # this combination is girl, >3, yes
 y <- age[2]
 z <- companion[1]
 p <- 0.2
@@ -127,7 +127,7 @@ p <- 0.2
 # girl, <3, no (seventh)
 h <- 1
 i <- 1
-x <- sex[1]         # this combination is girl, <3, no
+x <- sex[2]         # this combination is girl, <3, no
 y <- age[1]
 z <- companion[2]
 p <- 0.4
@@ -135,7 +135,7 @@ p <- 0.4
 # girl, >3, no (eight)
 h <- 1
 i <- 1
-x <- sex[1]         # this combination is girl, >3, no
+x <- sex[2]         # this combination is girl, >3, no
 y <- age[2]
 z <- companion[2]
 p <- 0.2
